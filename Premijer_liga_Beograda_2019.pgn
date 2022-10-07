@@ -1,0 +1,347 @@
+﻿[Event "?"]
+[Site "?"]
+[Date "2019.09.23"]
+[Round "?"]
+[White "Markovic, Aleksandar"]
+[Black "Zegarac, Vuk"]
+[Result "0-1"]
+[ECO "B12"]
+[PlyCount "72"]
+
+{Nisam se spremao za ovu partiju zato što nisam znao protivnika.} 1. e4 c6 2.
+d4 d5 3. e5 c5 {Želeo sam da probam ovu varijantu na kojoj sam radio pred
+turnir, smatram da je korektna koliko i Lf5 i mislim da treba igrati oba
+poteza.} 4. dxc5 e6 5. a3 Nc6 {Ovaj potez izbegava varijante sa Dg4, za
+razliku od poteza L:c5.} 6. Nf3 Bxc5 7. b4 Bb6 (7... Be7 $5 {Zanimljiv potez
+koji je odradio Fernandez i koji planiram da odigram u buducnosti. Ovaj potez
+daje skroz drugaciji karakter poziciji nego Lb6.} 8. Bd3 (8. b5 Na5 9. Bd3 Bd7
+10. O-O Qc7 11. Nbd2 (11. Qe2 Nc4 12. a4 (12. Bxc4 Qxc4 13. Qxc4 dxc4 14. Nc3
+f5) 12... a6 13. bxa6 Rxa6) 11... Nh6 12. a4 a6 13. Qe2 (13. Ba3 Bxa3 14. Rxa3
+O-O {Ova pozicija je bolja za belog ali smatram da crni ima dovoljno bogatu
+poziciju da nadigra slabijeg igraca. Ideje su Dc5, Sb7-c5, Sf5, f6, pritisak
+po a liniji itd.}) 13... O-O 14. Bb2 Rfc8) (8. Bb2 Nh6) 8... f6 9. Bb2 Nh6 10.
+O-O Nf7) 8. Bd3 Nge7 9. Bb2 Ng6 10. O-O O-O 11. Re1 Nf4 (11... f6 $5 {Ovaj
+potez je obradio Fernandez u svojoj knjizi ali se meni vise dopada Sf4 protiv
+slabijih igraca.} 12. exf6 gxf6 13. c4 Nf4 14. cxd5 Qxd5 15. Be4 Qxd1 16. Rxd1
+e5 17. Nc3 Nd4 18. Na4 $1 (18. Nxd4 Bxd4 19. Rd2 Kg7 20. Ne2 Nxe2+ 21. Rxe2
+Bxb2 22. Rxb2 f5 $11) (18. Nd5 Nxf3+ 19. Bxf3 Nxd5 20. Bxd5+ Kg7 $11) 18... f5
+19. Bd3 Nxd3 20. Bxd4 Bxd4 21. Nxd4 Bd7 $1) 12. Bf1 f6 13. exf6 gxf6 14. c4 (
+14. g3 Ng6 15. c4 dxc4 16. Bxc4 Nge5 17. Nxe5 Nxe5 18. Bxe5 Qxd1 19. Rxd1 fxe5
+20. Ra2 Bd4 $14) 14... e5 (14... dxc4 $5 {Potez koji mi je bio zanimljiv ali
+sam se ipak odlucio za ...e5.} 15. Bxc4 Qxd1 16. Rxd1 Kg7 17. Nc3 e5 18. Bc1
+Be6 19. Bxe6 Nxe6 20. Rd7+ Rf7 21. Bh6+ Kg8 22. Rd6 Ncd4 $11) 15. cxd5 Qxd5 16.
+Qxd5+ Nxd5 17. Bc4 Be6 18. Nc3 {Ova pozicija protiv slabijeg igraca mi se
+dopada.} Rad8 19. Rad1 Nf4 20. Bxe6+ Nxe6 21. Nd5 Kf7 (21... Ncd4 {O ovome sam
+potezu dosta razmisljao medjutim nije mi se dopadao rasplet gde promenimo
+previse figura.} 22. Nxd4 (22. Nxb6 Nxf3+ 23. gxf3 axb6 24. Kf1 b5) (22. Bxd4
+Bxd4 23. Ne3) 22... Bxd4 23. Bxd4 Nxd4 24. Ne3) 22. Nxb6 axb6 {Smatrao sam da
+je ova struktura bolja za mene zbog lovca na b2.} 23. g3 Ne7 {Sa idejom Sf5-e6,
+zeleo sam da centralizujem skakace i zahvatim sto veci prostor. Pored toga,
+skakac sa d6 preti da skoci na c4, jako nezgodno polje.} 24. Kf1 Nf5 25. Rxd8
+Rxd8 26. Re2 Nd6 $6 (26... Rd3 $1 {Ovaj potez nisam video, bio sam skroz
+fiksiran na ideju centralizacije skakaca.} 27. Ne1 (27. Nd2 $2 Nfd4) (27. Kg2
+Ke7 28. Rd2 Rb3) 27... Rd1 28. Bc3 Rb1 29. Rb2 Ra1 30. Rb3 Ra2 31. Bb2 Nd6 32.
+Nd3 Nc4 33. Bc1 b5 $17) 27. Rc2 Ke7 28. Nh4 b5 29. f4 $2 (29. Rd2 Rc8 $2 (29...
+Ng5 30. f4 Nge4 31. Re2 exf4 32. gxf4 Ke6 $15) 30. f4 $1 exf4) 29... exf4 30.
+gxf4 Nxf4 31. Rc7+ Ke6 32. Nf3 (32. Rxh7 $2 Ne4 $19) (32. Bc1 Nd3) (32. Ng2
+Nxg2 33. Kxg2 Rc8 $17) 32... Nf5 $1 33. Rxb7 Ne3+ 34. Ke1 Nc2+ 35. Kf1 Rd1+ 36.
+Kf2 Nd3+ {Da ponovo igram ovu partiju potrudio bih se da odigram isto.} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2019.09.24"]
+[Round "?"]
+[White "Zegarac, Vuk"]
+[Black "Skaric, Djuro"]
+[Result "1-0"]
+[ECO "A48"]
+[PlyCount "88"]
+
+{Bio sam spreman za ovu partiju i odlucio sam da odigram 2.Sf3 zato sto sam
+mislio da ce da odigra 2...d5 ili 2...e6 na sta bih ja odgovorio Lf4. Naravno
+bio sam spreman i na potez 2...g6.} 1. d4 Nf6 2. Nf3 g6 3. Bg5 Bg7 4. Nbd2 O-O
+5. c3 d6 6. a4 $1 {U prethodnim partijama sam na 5...d6 igrao potez 6.e4
+medjutim sam lose prolazio u tim pozicijama nakon sto beli odigra 6...c5. Iz
+tog razloga igram potez 6.a4!, zato sto na 6...c5 mogu da odigram potez 7.e3 i
+ulazim u pozicije koje mi se vise dopadaju.} h6 7. Bh4 Nc6 $6 {Ovaj potez mi
+se ne svidja za njega zato sto skakac svakako nece moci da skoci na b4 ili d4,
+smatram da je bolje da crni odigra ...Sbd7.} 8. e4 e5 9. dxe5 dxe5 10. Be2 Qe8
+11. O-O Nh5 12. Re1 Nf4 13. Bf1 Be6 14. Qc2 g5 15. Bg3 Qe7 16. Nc4 a5 (16... h5
+$6 17. Ne3 h4 18. Bxf4 gxf4 19. Nd5) (16... Rad8 17. b4 a6 18. Red1 Rxd1 19.
+Rxd1 Rd8 20. Ra1) (16... g4 17. Nh4 Ng6 18. Nf5) 17. Ne3 Qc5 18. Nd2 {Ideja mi
+je bila f3-Le3 uz pritisak na daminom krilu. Smatram da je crnopoljac crnoga
+slab i da mogu da igram na tu prednost.} Rad8 19. Rad1 h5 20. f3 Rd7 21. Bf2
+Rfd8 22. Nb3 Qe7 23. Bb5 (23. Rxd7 $1 {Potez koji odma zauzima ogromnu
+prednost a ja ga nisam ni razmatrao.} Rxd7 (23... Qxd7 24. Nc5 Qc8 25. Nxe6
+Qxe6 26. Rd1) 24. Nf5 Bxf5 (24... Qf6 25. Nc5 $14) 25. exf5) 23... Rxd1 24.
+Rxd1 Na7 25. Bc4 Nc6 (25... b6 {Mislio sam da ce da odigrao ovaj potez,
+smatram da ovde crni ima sanse da igra na remi.} 26. Bxe6 Nxe6 (26... Rxd1+ 27.
+Qxd1 Qxe6 28. Qd8+ Kh7 29. Nd2) (26... fxe6 27. Nc4 Nc6 28. Be3 Rxd1+ 29. Qxd1
+Bf6 30. g3 Ng6 31. Kg2 h4 32. Nc1 {Beli ima prednost ali ima jos da se igra.})
+27. Nf5 $16) 26. Nd5 Bxd5 27. exd5 Nb8 28. Qf5 b6 29. g3 Ng6 (29... Ne6 30. Re1
+Nf8 31. Be3 Nh7 32. Bd3) 30. d6 $6 (30. Qxg6 $3 {Ovaj potez dobija na mestu
+medjutim ja ga nisam ni razmatrao zato sto sam mislio da i d6 forsirano dobija.
+}) 30... Rxd6 (30... Qf6 31. Qxf6 Bxf6 32. dxc7 {Racunao sam na ovaj potez i
+prevideo sam moguci manevar crnog 33...Td8! i jos nista nije gotovo.}) 31. Rxd6
+Qxd6 32. Bxf7+ (32. Qxf7+ Kh7 33. Qg8+ Kh6 34. Qxb8 Qd1+ 35. Kg2 g4 36. fxg4
+Nh4+ 37. gxh4 Qxg4+ {Nije mi se dopadalo da dozvolim belome 34...Dd1 uz 35...
+g4, smatram da sam izabrao pravilniji i jednostavniji put do pobede.}) 32...
+Kh7 33. Qxg5 Bh6 34. Qxh5 Qf6 35. Bxg6+ Qxg6 36. Qxe5 Qb1+ 37. Kg2 Qxb2 38.
+Qxc7+ Bg7 39. Nd4 Na6 40. Qa7 Nc5 41. Nf5 Qxc3 42. Nxg7 Qxg7 43. Qxg7+ Kxg7 44.
+Bxc5 bxc5 {Da ponovo igram ovu partiju obratio bih vise paznju na takticke
+motive u pozicijama koje se cine kao da je fokus na strategiji.} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2019.09.25"]
+[Round "?"]
+[White "Nedeljkovic, Dragan"]
+[Black "Zegarac, Vuk"]
+[Result "0-1"]
+[ECO "B12"]
+[PlyCount "72"]
+
+{Nisam ocekivao ovog protivnika tako da ni za ovu partiju nisam bio spreman.} 
+1. e4 c6 2. d4 d5 3. e5 c5 4. dxc5 e6 5. Be3 Nd7 6. Bb5 Ne7 7. f4 (7. Nf3 Nf5
+8. Qd2 (8. Bd4 Qa5+ 9. Nc3 a6 10. Bxd7+ Bxd7 11. O-O Nxd4 12. Nxd4 Qxc5 $15) (
+8. b4 Nxe3 9. fxe3 a5 10. c3 Be7) 8... Nxe3 9. Qxe3 Qa5+ 10. Nc3 a6 11. Bxd7+
+Bxd7) (7. Bd4 a6 8. Bxd7+ (8. Ba4 Nc6 9. Bxc6 bxc6 10. b4 a5 11. a3 Qg5 12. g3
+Nxe5 13. f4 Qg6 $1) 8... Bxd7 9. Nf3 Nf5 10. O-O Nxd4 11. Qxd4 Rc8 12. b4 b6 $1
+) 7... Nf5 8. Bf2 Qa5+ 9. Nc3 Qb4 $4 {Ovaj potez mi je delovao logicno,
+napadam pesake na b2,f4,c5 i lovca na b5, medjutim beli u ovoj poziciji ima
+udar kojima zauzima ogromnu prednost.} (9... a6 $1 10. Bxd7+ (10. Bd3 d4) (10.
+Bf1 Bxc5 $17) 10... Bxd7 11. g4 d4 12. gxf5 dxc3) 10. c6 $2 (10. g4 $1 Ne7 (
+10... Nh6 11. c6 bxc6 12. Bxc6 Rb8 13. Bxa7 Bc5 14. Bxb8 Qxb8 $18) 11. Nge2 a6
+12. a3 Qa5 13. b4 $18) 10... bxc6 11. Bxc6 Rb8 12. g4 (12. Bxa7 $6 d4 13. Nge2
+dxc3 14. bxc3 Qb2 15. O-O Rb6 16. Bxd7+ Bxd7 17. Bxb6 Qxb6+ 18. Nd4 Ne3 $19)
+12... Ne7 13. Bxd7+ Bxd7 14. Nge2 h5 {Beli je potrosio puno vreme i nisam
+zeleo da mu dozvolim da igra mirnu poziciju, hteo sam sto vise taktike i
+racuna u partiji.} 15. Qd4 Nc6 $6 (15... Qxb2 16. Rb1 Qxb1+ 17. Nxb1 Rxb1+ 18.
+Kd2 Rxh1 19. Bg1 {Nisam bio siguran kako da procenim ovu poziciju.}) 16. Qxb4
+Rxb4 17. O-O-O hxg4 18. a3 Rb7 19. Rdg1 g5 $1 {Ovaj udar sam video pre par
+poteza i sve vreme sam trazio nacin da ga uspesno sprovedem.} 20. Rxg4 (20.
+fxg5 Nxe5 21. Bd4 Bg7 $17) 20... gxf4 21. Nxf4 Nxe5 22. Rh4 $4 {Nakon ovog
+poteza beli gubi figuru i time partiju.} Rxh4 23. Bxh4 Bh6 24. Bg3 Ng6 25. Rf1
+e5 26. Ncxd5 exf4 27. Nxf4 Bxf4+ 28. Bxf4 Nxf4 29. Rxf4 f5 30. c4 Ke7 31. b4
+Ke6 32. Kd2 Ke5 33. Ke3 Bc6 34. Rh4 Be4 35. Rh8 f4+ 36. Ke2 Rg7 {Da ponovo
+igram ovu partiju umesto 9...Db4?? bih odigrao 9...a6.} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2019.09.26"]
+[Round "?"]
+[White "Zegarac, Vuk"]
+[Black "Carnic, Srdjan"]
+[Result "1-0"]
+[ECO "D02"]
+[PlyCount "92"]
+
+{Protiv Carnica sam bio spreman ali nisam ocekivao da ce da mi ovako odigra
+otvaranje. Smatram da ova postava ne predstavlja nikakav problem belome.} 1. d4
+Nf6 2. Nf3 d5 3. Bf4 c5 4. e3 Nc6 5. Nbd2 e6 6. c3 Bd6 7. Bg3 O-O 8. Bd3 b6 9.
+Qe2 Bb7 10. Rd1 cxd4 $2 {Mislim da je ovo los izbor za crnog. U ovoj poziciji
+jedino pomocu 10...h6 crni moze da ocekuje jednaku poziciju.} 11. exd4 Ne7 12.
+Ne5 Nf5 13. O-O Nxg3 14. hxg3 (14. fxg3 {Potez o kojem sam razmisljao medjutim
+odlucio sam da se vodim principom da pesaci treba da budu sto blizi centru.})
+14... Qc7 15. f4 g6 16. g4 Rae8 17. g5 Nh5 18. Qg4 f5 {U ovoj poziciji sam
+potrosio dosta vremena. Nisam bio siguran da li treba ignorisati ili uzeti
+pesaka. Odlucio sam se da otvorim poziciju zato sto sam smatrao da mi daje
+vece sanse za pobedu nego zatvorena pozicija.} (18... f6 $2 19. Nxg6 hxg6 20.
+Bxg6 Nxf4 21. gxf6 Nxg6 22. Qxg6+ Kh8 23. Rf3) 19. gxf6 (19. Qh3 Bxe5 20. dxe5
+d4 21. cxd4 {Plasio sam se da ovde crni ima dovoljno igre.}) 19... Nxf6 20. Qh3
+$6 (20. Qh4 $1 Nh5 (20... Ne4 21. Bxe4 dxe4 22. Rde1 Bxe5 23. fxe5 Rf5 24. Nxe4
+Bxe4 25. Rxe4 Rxf1+ 26. Kxf1 Rf8+ 27. Kg1 $16) 21. Rde1) 20... Nh5 {Prevideo
+sam ovaj nacin igre crnog.} 21. Qh2 $2 {Potez koji odmah vodi u jednaku
+poziciju.} Bxe5 22. fxe5 Qe7 23. Be2 $1 {Na ovom turniru kada god sam racunao
+razmisljao sam o potezima unazad zato sto znam da su oni cesto teski i jako
+lako se previde. Mislim da mi je to poboljsanje u igri pomoglo da dobijem ovu
+partiju.} (23. Nf3 {Potez koji takodje vodi u bolju zavrsnicu.} Nf4 (23... Rf7
+24. g3 Ref8 25. Kg2) 24. Bb5 Rc8 25. g3 Nh5 26. Bd3) 23... Ng7 (23... Qg5 24.
+Bxh5 gxh5 25. Rf3 {Smatram da je ova zavrsnica bolja za belog zbog
+katastrofalnog belopoljca crnog.}) 24. Rxf8+ Rxf8 25. Rf1 Rxf1+ {Ovde mi je
+Carnic ponudio remi medjutim ja sam resio da nastavim da igram zato sto imam
+bolje vreme na satu i smatrao sam da je ova zavrsnica na jedan gol.} 26. Nxf1
+Qg5 (26... Nf5 27. Qf4 h5 28. Ng3 Nxg3 29. Qxg3 Qg7 30. Qg5) 27. Qg3 Qc1 $2 (
+27... Qxg3 28. Nxg3 {Mislim da je ova pozicija bolja za belog. Ideja je
+Lf3-Sf1-e3, b3-c4.}) 28. Qh4 $1 {Nakon ovog upada bele dame na d8 mislim da se
+crni raspada.} g5 (28... Qxb2 29. Qd8+ Kf7 30. Qf6+ Kg8 31. Bg4 Qxc3 32. Bxe6+
+Nxe6 33. Qxe6+ Kh8 (33... Kg7 34. Qf6+ Kg8 35. e6 Qc7 36. e7) 34. Qf6+ Kg8 35.
+e6) 29. Qh6 Qc2 30. Bh5 Nxh5 (30... Qf5 31. Ne3 Qf4 32. Ng4 Qc1+ 33. Kh2 Qf4+
+34. g3 Qd2+ 35. Kh3 Qd3 36. Nf6+ Kh8 37. Bf3 {Moja ideja.}) 31. Qxh5 Qf5 (31...
+Qg6 32. Qxg6+ hxg6 33. Kf2 Kg7 34. Kg3 Ba6 35. Ne3 Bb5 36. Ng4 Bc4 $15) 32.
+Qe8+ Kg7 33. Qe7+ Qf7 34. Qxg5+ {Smatram da je ova pozicija tehnicki dobijena
+ali je sad sve stvar tehnike.} Kf8 35. Ne3 h5 36. Nf1 Bc6 37. Qh4 Qg6 38. Qg3
+Qh6 39. Ne3 Be8 40. Kh2 Qh7 41. Qf4+ Ke7 42. c4 {Cim se pozicija otvori crni
+kralj je u ogromnim problemima.} dxc4 43. Nxc4 Bc6 44. Nd6 Qc2 45. Qf7+ Kd8 46.
+Qf8+ Kd7 {Da ponovo igram ovu partiju vecu bih paznju posvetio potezima figure
+na mesto sa kojeg je tek odigrala. Prevideo sam ideju Sh5 i nisam bio spreman
+da adekvatno odgovorim. Smatram da je sve ostalo bilo u redu.} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2019.09.27"]
+[Round "?"]
+[White "Andrijevic, Milan"]
+[Black "Zegarac, Vuk"]
+[Result "0-1"]
+[ECO "B13"]
+[PlyCount "50"]
+
+{Za ovu partiju sam se dugacko spremao i odlucio sam da igram sto ostrije
+protiv Andrijevica posto smatram da ima problema sa racunom.} 1. e4 c6 2. d4 d5
+3. exd5 cxd5 4. c4 Nf6 5. Nc3 Be6 {Varijanta za koju smatram da je
+polukorektna za crnog. Ukoliko beli zna dosta teorije moze da stvori ozbiljnu
+prednost, tako da je ovo otvaranje najbolje protiv slabijih igraca koji ne
+racunaju dobro.} 6. c5 (6. Nge2 dxc4 7. Nf4 Bg4 8. f3 Bd7 9. Bxc4 e6 10. d5 $1
+{Mislim da je ovo najkriticnija varijanta za crnog, beli igra na jedan gol.})
+6... g6 7. Nf3 Bg7 8. b4 O-O 9. Be2 b6 10. Bb2 bxc5 11. dxc5 $6 {Ovaj potez mi
+se ne dopada za belog, mislim da posle b:c5 ima vece sanse.} (11. bxc5 Nc6 12.
+Bb5 Rb8 13. O-O Qa5) 11... Ne4 12. Qc2 $2 (12. Qc1 Nxc3 13. Bxc3 d4 $15) (12.
+Nd4 Bxd4 13. Qxd4 Nc6 14. Qe3 Nxb4 15. O-O Nf6 $13) 12... Nc6 13. a3 Bf5 (13...
+Nxc3 14. Bxc3 d4 15. Rd1 Bf5 $1 {Potez koji sam prevideo i zato nisam odigrao
+S:c3.} 16. Qc1 e5) 14. Bd3 Rb8 15. b5 $4 (15. Nd1 $1 Bxb2 16. Nxb2 e5 $11)
+15... Qa5 $1 16. O-O Nxc3 17. Bxf5 Rxb5 18. Bd7 Rxc5 19. Bxc6 Rxc6 20. Rfe1 Qc7
+21. Rac1 d4 22. Qd3 Rb8 23. Rc2 e5 24. Ng5 h6 25. Bxc3 hxg5 {Da ponovo igram
+ovu partiju odigrao bih 13...S:c3} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2019.09.28"]
+[Round "?"]
+[White "Zegarac, Vuk"]
+[Black "Stanic, Aleksandar"]
+[Result "1/2-1/2"]
+[ECO "B09"]
+[PlyCount "103"]
+
+{Za ovog protivnika nisam bio spreman.} 1. d4 g6 2. e4 Bg7 3. Nc3 d6 4. f4 Nc6
+{Sa ovim potezom se nisam jos susreo i nikad je nisam analizirao tako da sam
+igrao odavde sve sam.} 5. Be3 (5. Nf3 {Potez o kojem sam razmisljao medjutim
+nije mi se dopala pozicija nakon 5...Lg4 6.Le3 L:f3} Bg4 6. Be3 Bxf3 7. gxf3 e6
+) 5... Nf6 6. Nf3 O-O 7. e5 {Udar koji mi je poznat iz ovakvog tipa pozicija.
+Ocekivao sam d:e5 nakon cega bih ja igrao na prostornu prednost u zavrsnici.}
+Ne8 $2 8. Be2 $2 {Mislim da je ovo pasivan potez koji smanjuje prednost belog.
+Tom belopoljcu je mesto na g2 a dami na e2 uz 0-0-0.} (8. Qe2 $1 Bf5 (8... Na5
+9. g3 Bg4 10. h3 Bxf3 11. Qxf3 c5 12. dxc5 dxe5 13. Rd1 Qc8 14. Bg2 exf4 15.
+Qxf4 $14) 9. a3 dxe5 10. fxe5 f6 11. O-O-O fxe5 12. dxe5 Qc8 13. Qc4+ Kh8 14.
+Qh4 $14) 8... d5 $2 9. Nd2 {Ideja mi je bila Sb3, Lf3, 0-0, a4-a5, uz pritisak
+na daminom krilu.} f6 {Mislio sam da ovaj potez ne prolazi zbog S:d5.} 10. Nxd5
+$2 Be6 11. c4 Nxd4 {Potez koji sam prevideo. Medjutim smatram da beli i dalje
+ima prednost.} (11... Bxd5 12. cxd5 Nb4 13. d6 e6 14. Bc4 $14) 12. Bxd4 c6 {
+Iako sam svestan da ovde imam prednost ovaj previd je psiholoski uticao na
+mene. Poceo sam da sumnjam u svoj racun i zeleo sam da umirim poziciju sto je
+verovatno i greska zbog koje sam izgubio pola boda na kraju. Da sam se
+potrudio da se smirim i krenem da racunam mislim da bih pronasao najbolje
+poteze u ovoj poziciji.} 13. Bg4 $2 (13. exf6 $1 exf6 14. Bc5 cxd5 15. Bxf8
+Bxf8 16. cxd5 Bxd5 17. O-O $14 {Nisam zeleo da udjem u ovu poziciju zato sto
+sam mislio da crni moze da napravi kompenzaciju sa lovackim parom. (Na ovaj
+sud je uticao tilt iz prethodnog poteza). Naravno, ovde je beli tehnicki
+dobijen i mislim da ne bih imao problema da realizujem.}) 13... f5 $2 (13...
+Bxg4 $1 14. Qxg4 cxd5 15. Qe6+ Kh8 16. Qxd5 Qxd5 17. cxd5 fxe5 18. fxe5 Nc7 $11
+) 14. Bf3 cxd5 15. c5 {Smatrao sam da sam u ovoj poziciji dosta bolji zbog
+prostora koji imam i loseg belopoljca crnog.} Bh6 16. g3 g5 17. fxg5 Bxg5 18.
+O-O Ng7 (18... f4 19. h4 Bh6 20. g4 {Ideja koju sam imao tokom cele partije na
+prerano guranje ...f4}) 19. Bg2 {Ovaj potez sam odigrao da bih oslobodio to
+polje za skakaca. Ideja mi je bila Sf3-h4 uz pomeranje Dame i Tf2-Taf1} Bh6 20.
+b4 (20. Nf3 {Nisam ocekivao potez Lh6, a sada vise ne prolazi Ideja Sf3 zbog ..
+.f4.} f4 $11) 20... Bf7 21. Nb3 {Zeleo sam da zauzmem skakacem mesto na d4
+zato sto sam smatrao da je tamo dominantan. Sf3 mi se nije dopadao zbog Lh5.}
+e6 22. Qd3 $2 (22. Na5 {Najbolji potez koji odmah grabi inicijativu umesto
+pasivnog Dd3.} Qc7 23. a4 $36) 22... Bg6 23. Qe2 Qg5 24. Rae1 Bh5 (24... f4 25.
+g4 Be4 26. Bxe4 dxe4 27. Qxe4 Qxg4+ 28. Kh1 $14) 25. Bf3 Qg6 26. Kh1 Kh8 27.
+Bc3 Bg4 28. Nd4 a6 29. a4 $4 (29. Bxg4 $1 {Potez koji vodi do dobitka.} fxg4 (
+29... Qxg4 30. Qxg4 fxg4 31. Rf6 Bg5 32. Nxe6 Bxf6 33. Nxf8 $14 {Neverovatno
+ali ovaj potez sam prevideo u racunu.} Be7 34. Nd7) 30. Rf6 $18) 29... Bh3 30.
+Rg1 Bg4 {Ovde mi je ponudjen remi koji sam odbio.} 31. Ref1 Qh5 32. Bd2 Bxd2
+33. Qxd2 Qg6 34. Qe3 Bxf3+ 35. Rxf3 Nh5 36. Qf2 Rg8 37. Ne2 $2 {Pasivan potez
+koji odmah vodi u jednaku poziciju.} (37. h3 $1 Rac8 38. Kh2 Qh6 39. b5 axb5
+40. axb5 Rg6 41. b6 Rcg8 42. Nb5 $14 {Crni nema nista na kraljevom krilu dok
+crni ima dominantnu poziciju na daminom.}) 37... Qe8 38. Ra1 $4 {Beli ne mora
+da brani tog pesaka.} (38. Nd4 Rc8 39. b5 axb5 40. axb5) 38... Rc8 39. Nf4 Rc7
+40. Nxh5 Qxh5 41. Rf4 Rg4 42. b5 Rcg7 43. c6 bxc6 44. bxa6 Rxf4 45. gxf4 c5 46.
+Rb1 Ra7 $4 47. Rb8+ Kg7 48. Qg3+ {Prevideo sam da crni ima veciti sah nakon
+Kh6.} (48. Rb7+ $18 Kh8 (48... Rxb7 49. axb7 $18) 49. Qf1 $3) 48... Kh6 49. Rb7
+Qd1+ 50. Kg2 Qe2+ 51. Kh3 Qh5+ (51... Qg4+ 52. Qxg4 fxg4+ 53. Kxg4 Rxa6 54. a5
+$18 Rxa5 55. Rb6 d4 56. Rxe6+) 52. Kg2 {Partija nakon koje sam se potrudio da
+se psiholoski smirim i nastavim da igram turnir kao od prvog kola. Mislim da
+ova partija nije uticala na moje sledece partije i da je to jos jedna barijera
+na kojoj uspesno radim. Da igram ponovo ovu partiju drugacije bih tretirao ovu
+poziciju sa novim znanjem koje sam stekao analizirajuci. (Ideja De2-g3-Lg2)}
+1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2019.09.29"]
+[Round "?"]
+[White "Podinic, Vladimir"]
+[Black "Zegarac, Vuk"]
+[Result "1/2-1/2"]
+[ECO "B12"]
+[PlyCount "22"]
+
+1. e4 {Nisam se spremao za ovog protivnika.} c6 2. d4 d5 3. f3 {Varijanta koju
+sam dobro obradio i nisam se brinuo za otvaranje u ovoj partiji.} e6 4. Nc3 Qb6
+5. a3 Nd7 6. Be3 Ngf6 7. exd5 $2 Nxd5 8. Nxd5 cxd5 (8... exd5 {Smatram da ovaj
+potez vodi u kompleksniju igru i odigrao bih ga da mi remi nije solidan
+rezultat u ovoj partiji.}) 9. Rb1 Nf6 (9... Bd6 $5) 10. Bd3 Bd7 11. Ne2 Bb5 $11
+{Ovo je sedma partija na mom turniru i rezultat mi je bio 5,5/6. Nakon ovog
+remija performans mi ostaje preko 2550 i imam velike sanse da uzmem normu tako
+da sam smatrao da je remi dobar rezultat i da treba turnir privesti kraju i
+uzeti normu koju sam ispustio par nedelja pre ove partije u poslednjem kolu I
+lige Srbije.} 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2019.10.02"]
+[Round "?"]
+[White "Jovanovic, Zoran Z"]
+[Black "Zegarac, Vuk"]
+[Result "0-1"]
+[ECO "B12"]
+[PlyCount "54"]
+
+{Nisam se spremao za ovog protivnika, ali sobzirom da ima titulu FM (odgovara
+mi za normu) i 2170 bio sam izuzetno motivisan da dam sve od sebe i pobedim ga.
+} 1. e4 c6 2. d4 d5 3. e5 c5 4. dxc5 e6 5. Be3 Nd7 6. Nf3 Bxc5 7. Bxc5 Nxc5 {
+Mislim da je ova varijanta izuzetno neambiciozna za belog.} 8. Bb5+ Bd7 9.
+Bxd7+ Nxd7 10. O-O Ne7 11. c3 O-O 12. Nbd2 Ng6 13. Re1 Qc7 14. Qe2 f6 $5 {Zbog
+nacina na koji je moj protivnik zapisivao poteze(drhtala mu je ruka) i vukao
+figure imao sam jak osecaj da je izuzetno preplasen. Iz tog razloga sam
+odlucio sa moj plan mora da bude sto agresivniji i usmeren na matiranje
+protivnika.} (14... Rac8 $11 {Da su drugacije okolnosti nastavio bih u
+drugacijem stilu.}) 15. exf6 Rxf6 16. c4 Nf4 17. Qf1 Nc5 18. cxd5 exd5 19. Re3
+{Moj protivnik je ovde potrosio vec dosta vremena (bio je na oko 10 minuta
+tako da sam hteo da ga jos vise vremenski pritisnem i vucem "logicne" poteze
+za koje smatram da ne mogu da pogorsaju moju poziciju.)} Raf8 20. Nd4 $2 Rh6
+21. h3 $4 Qd7 $4 (21... Rg6 22. g4 (22. g3 Qd7) 22... h5 23. f3 Qb6 $17 24. Rd1
+Nce6 {Beli se raspada.}) 22. b4 $2 (22. Rc1 b6 $15) 22... Na6 23. a3 Rg6 24. g4
+Nxh3+ 25. Rxh3 Qxg4+ 26. Rg3 Qxd4 27. Rxg6 hxg6 {Skakac sa a6 putuje na f4 i
+beli nema odbranu od tog manevra. Da ponovo igram ovu partiju potrudio bih se
+da je odigram isto.} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2019.10.03"]
+[Round "?"]
+[White "Djuric, Stefan"]
+[Black "Zegarac, Vuk"]
+[Result "1/2-1/2"]
+[ECO "A31"]
+[PlyCount "32"]
+
+{Ovo je moja poslednja partija u sezoni 2019. i zeleo sam da odigram sto
+tvrdje i time jos vise ucvrstim normu (turnir bez poraza). Spremao sam se za
+Djurica i smatrao da sam u obavezi da prednost napravim u otvaranju zato sto
+mislim da sam jedino u tom segmentu bolji od njega.} 1. d4 Nf6 2. c4 c5 3. Nf3
+cxd4 4. Nxd4 e5 5. Nf3 $2 {Potez koji me je izbacio iz pripreme i pomalo
+zbunio. Mislim da beli ispusta prednost ovim potezom.} (5. Nb5 d5 $1 {Potez
+koji sam spremao.} 6. cxd5 Bc5 {Mislim da je ovo korektna varijanta za crnog.})
+5... Nc6 6. Nc3 Bb4 7. e3 d5 (7... Ne4 8. Qc2 $11) (7... Bxc3+ 8. bxc3 O-O 9.
+Ba3 Re8 10. c5 {Iako smatram da ovde crni ima malo bolju poziciju nisam zeleo
+da ulazim u ovo.}) 8. a3 Bxc3+ 9. bxc3 Bg4 10. cxd5 Nxd5 11. h3 Bh5 12. Bc4 Nb6
+13. Qxd8+ Rxd8 14. Bb5 f6 15. a4 a6 16. Bxc6+ bxc6 {Nakon L:c6 beli mi je
+ponudio remi i ja sam ga prihvatio. Smatram da je ta odluka u ovom trenutku u
+redu zato sto sam osecao blagi umor a ovo je poslednja partija na turniru. Da
+su okolnosti drugacije nastavio bih da igram zavrsnicu sa dobrim belopoljcem
+protiv loseg crnopoljca.} 1/2-1/2
+
